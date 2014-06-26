@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+.idea/
+ipynb/product.txt
+.ipynb_checkpoints/
+
 __pycache__/
 *.py[cod]
 
