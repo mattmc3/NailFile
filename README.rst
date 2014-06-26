@@ -28,7 +28,7 @@ ipython notebook usage examples are available in the ipynb folder
 
 TODO:
 =====
-Add support for multi-record fixed-width files
-Add support for X12 EDI files like 834 and 278
-Add support for files with alternative line terminators
-Add pip install support
+* Add support for multi-record fixed-width files
+* Add support for X12 EDI files like 834 and 278
+* Add support for files with alternative line terminators
+* Add pip install support
